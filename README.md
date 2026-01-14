@@ -1,4 +1,4 @@
-# Invoice Data Extractor with Llama 4
+# AI-Driven Invoice Data Extraction & Cleansing System
 
 A powerful Streamlit application that extracts structured data from invoice images using Llama 4 Scout model via Groq API. The application processes invoice images through OCR and formats the extracted data into standardized SQL-ready tables.
 
